@@ -475,3 +475,10 @@ The Virtual Seminars in Economic Theory provides a platform for scholars to pres
 - [Website](https://sites.google.com/view/vset)
 - [Mailing list](https://forms.gle/tsecCsjXiGcrdAHi8)
 - [Google calendar](https://calendar.google.com/calendar/embed?src=ht917em01j5o4hmr47p5pj7llk%40group.calendar.google.com&ctz=America%2FLos_Angeles)
+
+### Virtual Finance Theory Seminar
+
+A weekly, cross-departmental seminar meeting on Wednesdays, at 12 noon NY time.
+
+-[Schedule](https://drive.google.com/file/d/1FEnt42opuzpQiJtPUF1lHqN3Zdp9mdhZ/view)
+- Register via email from an institutional address to mail@virtualfinancetheoryseminar.com
